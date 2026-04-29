@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 10:22 IR
+- 📱 [v2rayNG_2.0.18_arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.0.18_arm64-v8a.apk) `26.8MB`
+
+- 📱 [v2rayNG_2.0.18_armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.0.18_armeabi-v7a.apk) `27.1MB`
+
+- 📱 [v2rayNG_2.0.18_universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.0.18_universal.apk) `61.7MB`
+
+---
+
+
 ## 📅 Slipnet 2.5.3
 ### 2026-04-29 10:06 IR
 - 📱 [SlipNet-v2.5.3-full-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk) `25.6MB`
